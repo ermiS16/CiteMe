@@ -6,6 +6,7 @@ gradlew
 gradlew.bat
 settings.gradle.kts
 build.gradle.kts
+gradle.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
